@@ -8,6 +8,7 @@ The purpose of this program is to manage library memberships efficiently. It all
 - **Registration:** Users can register by providing their name, surname, phone number, age, and a secure password.
 - **Login:** Users can log in using their unique ID and password.
 - **Update Account Information:** Users can update their personal details, such as name, surname, phone number, age, and password.
+- **Delete:** Users can delete their accounts,admins can delete another user accounts.
 - **Export Account Data:** Users can export their account data to a JSON file, which is saved in the "Downloads" folder.
 - **Import Account Data:** Users can import account data from a JSON file to add it to the system.
 
