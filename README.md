@@ -32,6 +32,13 @@ The purpose of this program is to manage library memberships efficiently. It all
 ### Registration Form
 ![Registration Form](images/member_registration.png)
 
+## Weak Passsword Notification
+![Weak Passsword Notification](images/password_warning.png)
+
+## Success Registration
+![Success Registration Notification](images/registration_success.png)
+
+
 ### User Menu
 ![User Menu](images/member_menu.png)
 
