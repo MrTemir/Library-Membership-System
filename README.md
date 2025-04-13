@@ -29,6 +29,8 @@ The purpose of this program is to manage library memberships efficiently. It all
 ![First Menu](images/first_menu.png)
 _________________________________________________________________________________________
 
+### Login Form
+![Login Form](images/login.png)
 
 ### Registration Form
 ![Registration Form](images/member_registration.png)
@@ -45,7 +47,9 @@ ________________________________________________________________________________
 ## Admin-User Menu
 ![Admin-User Menu](images/admin_menu.png)
 
+_________________________________________________________________________________________
 ### Functional
+
 # Adding new member
 ![Fucntiona;](images/adding_new_member.png)
 # View all members
@@ -56,7 +60,6 @@ ________________________________________________________________________________
 ![Fucntiona;](images/update.png)
 # Delete user by ID
 ![Fucntiona;](images/dell_user.png)
-
 
 
 
