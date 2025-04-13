@@ -27,6 +27,7 @@ The purpose of this program is to manage library memberships efficiently. It all
 ## Program Working Screenshots
 ### Menu
 ![First Menu](images/first_menu.png)
+_________________________________________________________________________________________
 
 
 ### Registration Form
@@ -38,10 +39,10 @@ The purpose of this program is to manage library memberships efficiently. It all
 ## Success Registration
 ![Success Registration Notification](images/registration_success.png)
 
-
+_________________________________________________________________________________________
 ### User Menu
 ![User Menu](images/member_menu.png)
-
+##Admin-User Menu
 ![Admin-User Menu](images/admin_menu.png)
 
 
