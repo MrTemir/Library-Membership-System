@@ -45,6 +45,22 @@ ________________________________________________________________________________
 ## Admin-User Menu
 ![Admin-User Menu](images/admin_menu.png)
 
+### Functional
+# Adding new member
+![Fucntiona;](images/adding_new_member.png)
+# View all members
+![Fucntiona;](images/all_members.png)
+# User info
+![Fucntiona;](images/user_info.png)
+# Update user info
+![Fucntiona;](images/update.png)
+# Delete user by ID
+![Fucntiona;](images/dell_user.png)
+
+
+
+
+
 
 ---
 
