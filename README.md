@@ -1,12 +1,9 @@
 # Library Membership Control System
 
-## 1. Program Name
 **Library Membership Control System**
-
-## 2. Purpose of the Program
 The purpose of this program is to manage library memberships efficiently. It allows users to register, log in, and manage their accounts. Administrators have additional privileges, such as managing user accounts and viewing all registered users.
 
-## 3. Functionality of the Program
+## Functionality of the Program
 ### General User Features:
 - **Registration:** Users can register by providing their name, surname, phone number, age, and a secure password.
 - **Login:** Users can log in using their unique ID and password.
@@ -27,7 +24,7 @@ The purpose of this program is to manage library memberships efficiently. It all
   - Contain at least one special character (e.g., `!@#$%^&*()`).
 - **Data Export/Import:** Account data is securely exported and imported in JSON format.
 
-## 4. Program Screenshots
+## Program Working Screenshots
 ### Main Menu
 ![Main Menu](screenshots/main_menu.png)
 
