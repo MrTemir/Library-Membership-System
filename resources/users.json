@@ -1,0 +1,39 @@
+[ {
+  "password" : "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+  "name" : "Temir",
+  "id" : "5651KL",
+  "isAdmin" : true
+}, {
+  "password" : "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "phone" : "",
+  "surname" : "",
+  "name" : "Alina",
+  "id" : "9926HK",
+  "isAdmin" : false,
+  "age" : 0
+}, {
+  "password" : "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+  "phone" : "123456789",
+  "surname" : "Doe",
+  "name" : "John",
+  "id" : "5908XF",
+  "isAdmin" : false,
+  "age" : 25
+}, {
+  "password" : "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+  "phone" : "1234",
+  "surname" : "Chen",
+  "name" : "Den",
+  "id" : "2679RR",
+  "isAdmin" : false,
+  "age" : 12,
+  "email" : "a"
+}, {
+  "password" : "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+  "phone" : "123",
+  "surname" : "Pugach",
+  "name" : "Alla",
+  "id" : "2500QB",
+  "isAdmin" : false,
+  "age" : 12
+} ]
