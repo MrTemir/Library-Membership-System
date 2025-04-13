@@ -25,20 +25,18 @@ The purpose of this program is to manage library memberships efficiently. It all
 - **Data Export/Import:** Account data is securely exported and imported in JSON format.
 
 ## Program Working Screenshots
-### Main Menu
-![Main Menu](screenshots/main_menu.png)
+### Menu
+![First Menu](images/first_menu.png)
+
 
 ### Registration Form
-![Registration Form](screenshots/registration_form.png)
+![Registration Form](images/member_registration.png)
 
 ### User Menu
-![User Menu](screenshots/user_menu.png)
+![User Menu](images/member_menu.png)
 
-### Export Success Message
-![Export Success](screenshots/export_success.png)
+![Admin-User Menu](images/admin_menu.png)
 
-### Import Account
-![Import Account](screenshots/import_account.png)
 
 ---
 
@@ -51,5 +49,4 @@ The purpose of this program is to manage library memberships efficiently. It all
 - Java 8 or higher.
 - JavaFX library.
 
-## Author
-**Temir**
+
