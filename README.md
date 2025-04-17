@@ -1,5 +1,5 @@
 # Library Membership Control System
-# Made by Temirlan Karabaev
+## Made by Temirlan Karabaev
 
 **Library Membership Control System**
 The purpose of this program is to manage library memberships efficiently. It allows users to register, log in, and manage their accounts. Administrators have additional privileges, such as managing user accounts and viewing all registered users.
